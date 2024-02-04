@@ -2,7 +2,7 @@ import React from 'react'
 
 function Chat() {
   return (
-    <div>Chat prueba</div>
+    <div>Chat prueba espero ver que da</div>
   )
 }
 
